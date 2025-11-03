@@ -26,3 +26,8 @@ https://app.qase.io/project/G101?previewMode=side&suite=207&tab=properties
 Отчеты о дефектах в веб-приложении
 
 [Баг репорты Никоноров Веб.xlsx](https://github.com/user-attachments/files/22453627/default.xlsx)
+
+
+Работа с перехватом трафика в CharlesProxy в веб-приложении
+
+https://drive.google.com/file/d/1c2UsNgE9_m4r7qo7yKdXC4EkSG5X6vw-/view?usp=sharing
